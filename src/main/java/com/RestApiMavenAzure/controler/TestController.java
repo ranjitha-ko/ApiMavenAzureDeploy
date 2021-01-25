@@ -9,7 +9,7 @@ public class TestController {
     @GetMapping("/")
     public String getdata()
     {
-       return "Hello Ranju welcome to azure deploy";
+       return "Hello Ranju welcome to azure deploy rest api";
     }
 
 }
